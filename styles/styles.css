@@ -1,0 +1,14 @@
+.bg{
+    position: relative;
+
+        img{
+        width: 700;
+        opacity: 0.25;
+    }
+}
+
+.fg{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
